@@ -1,4 +1,4 @@
-# FoodOrderingSystem🧬 Human Blueprint
+# FoodOrderingSystem🧬 
 
 🌟 Personal Profile & Digital Identity Project
 
